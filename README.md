@@ -114,16 +114,31 @@ Online Banking is down - "Business Impacting Issue", we need to change this to E
 Department- Choose System Administrators. As you make changes to tickets there are a history of threads that
 show updates and changes to track progress. Now we can reply at the bottom to communicate with the person who sent
 out the ticket that you are contacting the system administrators and they are working on it. 
+  
+<p>
+<img src="https://i.imgur.com/N0FpduN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 *Even if you have not resolved the ticket yet and it's taking longer than expected, it's still good
 to check in and update the person who created the ticket that you are doing everything you can to fix
-the problem.*
+the problem.* 
 
 Now we can go back to main page and view the changes we made to priority level and assigned to. Once you have
 reviewed the updated ticket, we can click back into it, write new message at the bottom that someone in Systems
 Admin has located the problem and online banking should be up and running, make sure to click "Resolved" before Post Reply.
+  
+<p>
+<img src="https://i.imgur.com/eFhVUfX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 The Online Banking ticket should have disappeared from the other existing tickets and should be under "Closed tickets".
+  
+<p>
+<img src="https://i.imgur.com/vMs9YSs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 Now you can go in and edit the rest of the tickets by assigning them to a person, adjusting the priority levels, departments & SLA's until
 finished with all remaining tickets. 
