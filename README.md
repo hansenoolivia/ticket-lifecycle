@@ -90,4 +90,23 @@ so we can review the tickets we just made.</h2>
 <img src="https://i.imgur.com/KSNu9yC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
+
+<p>
+All of the priority's are set to normal and aren't assigned to anybody, we will need to go through are tickets 
+and change these settings. Let's use the "online banking is down" ticket for example. 
+</p>
+<p>
+<br />
+  
+<p>
+Online Banking is down - "Business Impacting Issue", we need to change this to Emergency on Priority level.
+</p>
+
+<p>
+<img src="https://i.imgur.com/bsl2CIN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+ 
 
