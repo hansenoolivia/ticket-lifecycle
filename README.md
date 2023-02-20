@@ -93,14 +93,14 @@ so we can review the tickets we just made.</h2>
   
 
 <p>
-All of the priority's are set to normal and aren't assigned to anybody, we will need to go through are tickets 
+All of the priority's are set to normal and aren't assigned to anybody, we will need to go through the tickets 
 and change these settings. Let's use the "online banking is down" ticket for example. 
 </p>
 <p>
 <br />
   
 <p>
-Online Banking is down - "Business Impacting Issue", we need to change this to Emergency on Priority level.
+Online Banking is down - "Business Impacting Issue", we need to change this to Emergency on Priority level & Assign to an Agent, ex. Jane Doe or yourself.
 </p>
 
 <p>
@@ -108,5 +108,24 @@ Online Banking is down - "Business Impacting Issue", we need to change this to E
 </p>
 <p>
 
- 
+ <p>
+ SLA -Sev A due to it being at the top of priority list.
+
+Department- Choose System Administrators. As you make changes to tickets there are a history of threads that
+show updates and changes to track progress. Now we can reply at the bottom to communicate with the person who sent
+out the ticket that you are contacting the system administrators and they are working on it. 
+
+*Even if you have not resolved the ticket yet and it's taking longer than expected, it's still good
+to check in and update the person who created the ticket that you are doing everything you can to fix
+the problem.*
+
+Now we can go back to main page and view the changes we made to priority level and assigned to. Once you have
+reviewed the updated ticket, we can click back into it, write new message at the bottom that someone in Systems
+Admin has located the problem and online banking should be up and running, make sure to click "Resolved" before Post Reply.
+
+The Online Banking ticket should have disappeared from the other existing tickets and should be under "Closed tickets".
+
+Now you can go in and edit the rest of the tickets by assigning them to a person, adjusting the priority levels, departments & SLA's until
+finished with all remaining tickets. 
+ </p>
 
